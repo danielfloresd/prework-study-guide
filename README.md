@@ -3,12 +3,11 @@
 ## Description
 The purpose of this page is to provide a quick explanation of the main components of a webpage. This page was built to illustrate the concepts explained in it in a practical manner. During the execution of this projects the following concepts were reviwed and excercised: HTML, CSS and JavaScript. 
 
-
 ## Installation
 N/A
 
 ## Usage
-This page can be used as a quick reference to the topics described above. Also, by analizing the source code and file structure we can have a better understanding of the topics described in the webpage. 
+This page can be used as a quick reference to the topics described above. Also, by analizing the source code and file structure we can have a better understanding of the topics described in the webpage. Use Google Chrome ispector for more information.
 
 ## Credits
 
